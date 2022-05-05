@@ -1,0 +1,9 @@
+05/05/2022 12:57:07 - https://random-status-code.herokuapp.com - online: false
+05/05/2022 12:57:07 - https://www.alura.com.br - online: true
+05/05/2022 12:57:08 - https://www.caelum.com.br - online: true
+05/05/2022 12:57:11 - https://random-status-code.herokuapp.com - online: false
+05/05/2022 12:57:12 - https://www.alura.com.br - online: true
+05/05/2022 12:57:12 - https://www.caelum.com.br - online: true
+05/05/2022 12:57:16 - https://random-status-code.herokuapp.com - online: true
+05/05/2022 12:57:16 - https://www.alura.com.br - online: true
+05/05/2022 12:57:16 - https://www.caelum.com.br - online: true
